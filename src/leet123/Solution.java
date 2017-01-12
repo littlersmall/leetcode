@@ -7,7 +7,8 @@ import java.util.List;
 /**
  * Created by littlersmall on 17/1/6.
  */
-/*解题思路:
+/*
+解题思路:
 题目本意:在最多两次交易中,盈利最大
 先把题目简化为只有一次交易的话,如何盈利最大?
 数学描述为:一个数组a[n],求a[n]中的一对数据,a[x],a[y],满足y>x,且a[y]-a[x]最大
